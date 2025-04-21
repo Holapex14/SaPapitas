@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  input, textarea {
+    margin: 5px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin-top: 10px;
+  }
+  
